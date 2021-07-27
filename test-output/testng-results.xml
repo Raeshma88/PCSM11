@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="79571" started-at="2021-07-27T11:25:09 IST" finished-at="2021-07-27T11:26:29 IST">
+    <groups>
+    </groups>
+    <test name="ChromeTest" duration-ms="27969" started-at="2021-07-27T11:25:09 IST" finished-at="2021-07-27T11:25:37 IST">
+      <class name="demoTestng.Ggl2brwsr">
+        <test-method status="PASS" signature="tc(java.lang.String)[pri:0, instance:demoTestng.Ggl2brwsr@3b088d51]" name="tc" duration-ms="27895" started-at="2021-07-27T11:25:09 IST" finished-at="2021-07-27T11:25:37 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc -->
+      </class> <!-- demoTestng.Ggl2brwsr -->
+    </test> <!-- ChromeTest -->
+    <test name="FirefoxTest" duration-ms="79571" started-at="2021-07-27T11:25:09 IST" finished-at="2021-07-27T11:26:29 IST">
+      <class name="demoTestng.Ggl2brwsr">
+        <test-method status="PASS" signature="tc(java.lang.String)[pri:0, instance:demoTestng.Ggl2brwsr@6b57696f]" name="tc" duration-ms="79509" started-at="2021-07-27T11:25:09 IST" finished-at="2021-07-27T11:26:29 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc -->
+      </class> <!-- demoTestng.Ggl2brwsr -->
+    </test> <!-- FirefoxTest -->
+  </suite> <!-- Suite -->
+</testng-results>
